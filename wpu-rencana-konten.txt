@@ -1,0 +1,8 @@
+RENCANA KONTEN WPU
+
+- Video tentang Javascript
+  *ES6
+  *framework Javascript
+- Video tentang PHP framework
+- Interview
+- Vlogs
