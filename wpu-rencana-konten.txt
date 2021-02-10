@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Video tentang Javascript
   *ES6
   *framework Javascript
+- Fundamnetal data structure
 - Video tentang PHP framework
 - Interview
 - Vlogs
