@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   *ES6
   *framework Javascript
    ^Vue
+   ^React
 - Fundamnetal data structure
 - Video tentang PHP framework
   *Laravel
